@@ -1,8 +1,11 @@
 <script lang="ts">
-  import NameSection from './components/NameSection.svelte'
+  import MainPage from './components/mainPageComponents/MainPage.svelte'
 </script>
 
-<NameSection />
+<MainPage />
 
-<style>
+<style global lang="postcss">
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
 </style>
