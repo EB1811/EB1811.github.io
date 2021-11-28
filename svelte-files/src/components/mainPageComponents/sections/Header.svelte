@@ -1,4 +1,4 @@
-<header class="bg-white shadow border-t-4 border-green-400 sticky top-0">
+<header class="bg-white shadow border-t-4 border-green-400 sticky top-0 z-50">
   <div class="container mx-auto px-6 py-4">
     <div class="flex items-center justify-between">
       <div>
