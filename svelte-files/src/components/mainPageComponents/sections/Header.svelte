@@ -13,12 +13,16 @@
       </div>
       <div class="flex items-center">
         <a
-          href="/"
+          href="https://github.com/EB1811"
           class="flex items-center mx-2 text-gray-800 hover:text-green-500">G</a
         >
         <a
-          href="/"
+          href="https://www.linkedin.com/in/emmanuils-borov"
           class="flex items-center mx-2 text-gray-800 hover:text-green-500">L</a
+        >
+        <a
+          href="https://dev.to/emmanuilsb"
+          class="flex items-center mx-2 text-gray-800 hover:text-green-500">D</a
         >
       </div>
     </div>
