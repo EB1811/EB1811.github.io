@@ -4,6 +4,7 @@
   import MidAboutMeSection from './sections/MidAboutMeSection.svelte'
   import Articles from './sections/articles.svelte'
   import Projects from './sections/Projects.svelte'
+  import Footer from './sections/Footer.svelte'
 </script>
 
 <Header />
@@ -11,3 +12,4 @@
 <MidAboutMeSection />
 <Articles />
 <Projects />
+<Footer />

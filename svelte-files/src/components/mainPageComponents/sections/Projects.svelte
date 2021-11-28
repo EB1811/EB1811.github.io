@@ -2,7 +2,7 @@
   import ProjectLink from '../../common/ProjectLink.svelte'
 </script>
 
-<section class="bg-gray-700 py-20 border-b-4 border-green-400">
+<section class="bg-gray-700 py-20">
   <div class="max-w-5xl px-6 mx-auto text-center">
     <h2 class="text-2xl font-semibold text-white">Projects</h2>
     <div class="flex items-center justify-center mt-10">
