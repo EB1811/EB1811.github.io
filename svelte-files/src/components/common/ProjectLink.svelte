@@ -9,14 +9,14 @@
 
 <div class="max-w-xs w-full">
   <div
-    class="flex items-center justify-center h-56 bg-white border-b-8 border-green-400 rounded-md overflow-hidden"
+    class="flex items-center justify-center h-56 bg-white dark:bg-gray-800 border-b-8 border-green-400 dark:border-indigo-700 rounded-md overflow-hidden transition-colors duration-500"
   >
-    <img class="object-cover h-8" src={imgLink} alt={imgAlt} />
+    <img class="object-cover h-full" src={imgLink} alt={imgAlt} />
   </div>
 
   <a
     href={link}
-    class="block bg-gray-600 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
+    class="block bg-gray-600 dark:bg-gray-800 mt-5 rounded-md overflow-hidden transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110"
   >
     <div class="py-2 px-3 text-center text-sm">
       <p class="text-white font-semibold text-lg">
