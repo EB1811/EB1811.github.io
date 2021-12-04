@@ -1,4 +1,6 @@
-<section class="bg-gray-700 py-20">
+<section
+  class="bg-gray-700 dark:bg-gray-900 py-20 transition-colors duration-500"
+>
   <div class="max-w-5xl px-6 mx-auto text-center">
     <h2 class="text-2xl font-semibold text-white">
       About Me or something else
