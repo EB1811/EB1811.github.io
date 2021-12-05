@@ -2,7 +2,9 @@
   import ProjectLink from '../../common/ProjectLink.svelte'
 </script>
 
-<section class="bg-gray-700 py-20">
+<section
+  class="bg-gray-700 dark:bg-gray-900 py-20 transition-colors duration-500"
+>
   <div class="max-w-5xl px-6 mx-auto text-center">
     <h2 class="text-2xl font-semibold text-white">Projects</h2>
     <div class="flex items-center justify-center mt-10">
@@ -12,7 +14,7 @@
           desc="Website helping users share rent, share goods, and separate finances."
           tech="React + Firebase + .NET Core"
           link="https://github.com/EB1811/Fair-Share"
-          imgLink="/"
+          imgLink="/img/home-page-fairshare.PNG"
           imgAlt="Image of Fair / Share website"
         />
         <ProjectLink
@@ -20,7 +22,7 @@
           desc="TaskScape is an attempt to build a more enticing task manager."
           tech="Vue.js + TypeScript"
           link="https://github.com/EB1811/taskscape-vue.js"
-          imgLink="/"
+          imgLink="/img/home-page-taskscape.PNG"
           imgAlt="Image of TaskScape website"
         />
         <ProjectLink
@@ -28,7 +30,7 @@
           desc="A website where users can create and complete quizzes."
           tech="React + Firebase"
           link="https://github.com/EB1811/SimpleQuizzes-React"
-          imgLink="/"
+          imgLink="/img/home-page-quiz-app.PNG"
           imgAlt="Image of Quiz Creator website"
         />
       </div>
@@ -36,7 +38,7 @@
     <div class="flex items-center justify-center mt-12">
       <a
         href="https://github.com/EB1811"
-        class="flex items-center text-white hover:underline hover:text-gray-200"
+        class="flex items-center text-white hover:underline hover:text-gray-200 dark:text-gray-300 dark:hover:text-gray-200"
       >
         <span>View More On Github</span>
         <svg
