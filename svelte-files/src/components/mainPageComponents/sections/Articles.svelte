@@ -2,9 +2,11 @@
   import ArticelLinkBar from '../../common/ArticelLinkBar.svelte'
 </script>
 
-<section class="bg-white py-20">
+<section class="bg-white dark:bg-gray-800 py-20 transition-colors duration-500">
   <div class="max-w-5xl px-6 mx-auto text-center">
-    <h2 class="text-2xl font-semibold text-gray-800">Latest Articles</h2>
+    <h2 class="text-2xl font-semibold text-gray-800 dark:text-white">
+      Latest Articles
+    </h2>
     <div class="flex flex-col items-center justify-center mt-6">
       <ArticelLinkBar
         title="Writing cleaner JavaScript with ES6+"
@@ -21,7 +23,7 @@
     <div class="flex items-center justify-center mt-12">
       <a
         href="/"
-        class="flex items-center mx-2 text-gray-600 hover:underline hover:text-gray-500"
+        class="flex items-center mx-2 text-gray-600 dark:text-gray-300 hover:underline hover:text-gray-500 dark:hover:text-gray-200"
       >
         <span>View More</span>
         <svg
