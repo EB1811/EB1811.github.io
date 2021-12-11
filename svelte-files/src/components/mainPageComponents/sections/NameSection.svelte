@@ -9,7 +9,9 @@
         >Emmanuil Borovikovs</span
       >
     </h2>
-    <p class="text-gray-600 dark:text-gray-300 mt-4" />
+    <p class="text-gray-600 dark:text-gray-300 mt-4">
+      Software Engineer specialising in Frontend and Cloud development.
+    </p>
     <div class="flex items-end justify-center mt-16">
       <img
         width="450"
