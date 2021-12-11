@@ -11,7 +11,7 @@
   <div
     class="flex items-center justify-center h-56 bg-white dark:bg-gray-800 border-b-8 border-green-400 dark:border-indigo-700 rounded-md overflow-hidden transition-colors duration-500"
   >
-    <img class="object-cover h-full" src={imgLink} alt={imgAlt} />
+    <img class="object-cover h-full w-full" src={imgLink} alt={imgAlt} />
   </div>
 
   <a
