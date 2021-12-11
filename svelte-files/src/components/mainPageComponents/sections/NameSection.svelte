@@ -9,11 +9,13 @@
         >Emmanuil Borovikovs</span
       >
     </h2>
-    <p class="text-gray-600 dark:text-gray-300 mt-4">
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit
-    </p>
+    <p class="text-gray-600 dark:text-gray-300 mt-4" />
     <div class="flex items-end justify-center mt-16">
-      <svg width="200" height="200" />
+      <img
+        width="450"
+        src="img/eman-coding-black.svg"
+        alt="eman digital nomad svg"
+      />
     </div>
   </div>
 </section>
