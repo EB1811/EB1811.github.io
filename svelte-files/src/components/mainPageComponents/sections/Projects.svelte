@@ -6,7 +6,7 @@
   class="bg-gray-700 dark:bg-gray-900 py-20 transition-colors duration-500"
 >
   <div class="max-w-5xl px-6 mx-auto text-center">
-    <h2 class="text-2xl font-semibold text-white">Projects</h2>
+    <h2 class="text-2xl font-semibold text-white">My Work</h2>
     <div class="flex items-center justify-center mt-10">
       <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         <ProjectLink
