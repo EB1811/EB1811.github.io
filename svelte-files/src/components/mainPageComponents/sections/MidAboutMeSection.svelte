@@ -11,13 +11,5 @@
       DynamoDB. I am someone who loves to learn, as well as teach, sharing new
       techs I discover with the brilliant developer community.
     </p>
-    <!-- <p class="text-gray-400 mt-4">
-      I graduated with a first in computer science.
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ullamcorper nulla
-      nunc quis molestie volutpat elementum at. Ultrices ipsum, enim cursus
-      lorem ac. Orci maecenas praesent arcu eget orci est orci nullam. Leo purus
-      est pellentesque massa at tortor, est. Aliquet pulvinar a mattis sagittis.
-      Suspendisse porta id elementum, massa.
-    </p> -->
   </div>
 </section>
