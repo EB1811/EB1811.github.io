@@ -18,7 +18,6 @@
         title="Take your async code to the next level with javascript ES8/ES9"
         date="Coming Soon"
         link="https://dev.to/emmanuilsb"
-        first={true}
       />
       <ArticelLinkBar
         title="Stop Overcomplicating your State – Try Zustand"
