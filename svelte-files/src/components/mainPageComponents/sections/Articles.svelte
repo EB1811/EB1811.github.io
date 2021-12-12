@@ -11,13 +11,13 @@
       <ArticelLinkBar
         title="Writing cleaner JavaScript with ES6+"
         date="Coming Soon"
-        link=""
+        link="https://dev.to/emmanuilsb"
         first={true}
       />
       <ArticelLinkBar
         title="Take your async code to the next level with javascript ES8/ES9"
         date="Coming Soon"
-        link=""
+        link="https://dev.to/emmanuilsb"
         first={true}
       />
       <ArticelLinkBar
