@@ -2,7 +2,9 @@
   import ArticelLinkBar from '../../common/ArticelLinkBar.svelte'
 </script>
 
-<section class="bg-white dark:bg-gray-800 py-20 transition-colors duration-500">
+<section
+  class="bg-white dark:bg-neutral-800 py-20 transition-colors duration-500"
+>
   <div class="max-w-5xl px-6 mx-auto text-center">
     <h2 class="text-2xl font-semibold text-gray-800 dark:text-white">
       Latest Articles

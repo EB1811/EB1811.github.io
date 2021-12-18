@@ -84,8 +84,8 @@
   </span>
 </div>
 
-<style>
+<style lang="postcss">
   .toggle-dot {
-    @apply transform translate-x-6 border-green-500;
+    @apply translate-x-6 border-emerald-500;
   }
 </style>

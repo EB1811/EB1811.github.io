@@ -3,14 +3,14 @@
 </script>
 
 <header
-  class="bg-white dark:bg-gray-800 shadow border-t-4 border-green-400 dark:border-indigo-700 sticky top-0 z-50 transition-colors duration-500"
+  class="bg-white dark:bg-neutral-800 shadow border-t-4 border-emerald-400 dark:border-indigo-700 sticky top-0 z-50 transition-colors duration-500"
 >
   <div class="container mx-auto px-6 py-4">
     <div class="flex items-center justify-between">
       <div>
         <a
           href="/"
-          class="flex items-center text-gray-800 hover:text-green-500 dark:text-gray-100 dark:hover:text-indigo-500"
+          class="flex items-center text-gray-800 hover:text-emerald-500 dark:text-gray-100 dark:hover:text-indigo-500"
         >
           <svg
             class="h-4 w-4 fill-current"
@@ -31,7 +31,7 @@
         </div>
         <a
           href="https://github.com/EB1811"
-          class="flex items-center mx-2 text-gray-800 hover:text-green-500 dark:text-gray-100 dark:hover:text-indigo-500"
+          class="flex items-center mx-2 text-gray-800 hover:text-emerald-500 dark:text-gray-100 dark:hover:text-indigo-500"
         >
           <svg
             viewBox="0 0 24 24"
@@ -44,7 +44,7 @@
         </a>
         <a
           href="https://www.linkedin.com/in/emmanuils-borov"
-          class="flex items-center mx-2 text-gray-800 hover:text-green-500 dark:text-gray-100 dark:hover:text-indigo-500"
+          class="flex items-center mx-2 text-gray-800 hover:text-emerald-500 dark:text-gray-100 dark:hover:text-indigo-500"
         >
           <svg
             viewBox="0 0 455 455"
@@ -69,7 +69,7 @@
         </a>
         <a
           href="https://dev.to/emmanuilsb"
-          class="flex items-center mx-2 text-gray-800 hover:text-green-500 dark:text-gray-100 dark:hover:text-indigo-500"
+          class="flex items-center mx-2 text-gray-800 hover:text-emerald-500 dark:text-gray-100 dark:hover:text-indigo-500"
         >
           <svg
             class="h-5 w-5 sm:h-6 sm:w-6 fill-current"

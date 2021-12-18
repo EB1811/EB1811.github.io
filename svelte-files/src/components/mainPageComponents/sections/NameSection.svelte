@@ -1,11 +1,11 @@
 <section
-  class="bg-white mt-20 dark:bg-gray-800 transition-colors duration-500"
+  class="bg-white mt-20 dark:bg-neutral-800 transition-colors duration-500"
   style="min-height: 380px"
 >
   <div class="max-w-2xl px-6 text-center mx-auto">
     <h2 class="text-3xl font-semibold text-gray-800">
       <span
-        class="bg-green-400 dark:bg-indigo-700 text-white rounded px-1 duration-700"
+        class="bg-emerald-400 dark:bg-indigo-700 text-white rounded px-1 duration-700"
         >Emmanuil Borovikovs</span
       >
     </h2>
