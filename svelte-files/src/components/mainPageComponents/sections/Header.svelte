@@ -9,7 +9,7 @@
     <div class="flex items-center justify-between">
       <div>
         <a
-          href="/"
+          href="./"
           class="flex items-center text-gray-800 hover:text-emerald-500 dark:text-gray-100 dark:hover:text-indigo-500"
         >
           <svg

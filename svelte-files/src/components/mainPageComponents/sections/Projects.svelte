@@ -14,7 +14,7 @@
           desc="Website helping users share rent, share goods, and separate finances."
           tech="React + Firebase + .NET Core"
           link="https://github.com/EB1811/Fair-Share"
-          imgLink="/img/home-page-fairshare.PNG"
+          imgLink="img/home-page-fairshare.PNG"
           imgAlt="Image of Fair / Share website"
         />
         <ProjectLink
@@ -22,7 +22,7 @@
           desc="TaskScape is an attempt to build a more enticing task manager."
           tech="Vue.js + TypeScript"
           link="https://github.com/EB1811/taskscape-vue.js"
-          imgLink="/img/home-page-taskscape.PNG"
+          imgLink="img/home-page-taskscape.PNG"
           imgAlt="Image of TaskScape website"
         />
         <ProjectLink
@@ -30,7 +30,7 @@
           desc="A website where users can create and complete quizzes."
           tech="React + Firebase"
           link="https://github.com/EB1811/SimpleQuizzes-React"
-          imgLink="/img/home-page-quiz-app.PNG"
+          imgLink="img/home-page-quiz-app.PNG"
           imgAlt="Image of Quiz Creator website"
         />
       </div>
