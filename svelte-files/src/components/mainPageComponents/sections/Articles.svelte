@@ -11,15 +11,15 @@
     </h2>
     <div class="flex flex-col items-center justify-center mt-6">
       <ArticelLinkBar
-        title="Writing cleaner JavaScript with ES6+"
+        title="Take your Async Code to the Next Level"
         date="Coming Soon"
         link="https://dev.to/emmanuilsb"
         first={true}
       />
       <ArticelLinkBar
-        title="Take your async code to the next level with javascript ES8/ES9"
-        date="Coming Soon"
-        link="https://dev.to/emmanuilsb"
+        title="Techniques for Writing Cleaner JavaScript"
+        date="Dec 22 2021"
+        link="https://dev.to/emmanuilsb/techniques-for-writing-cleaner-javascript-with-es6-how-many-do-you-know--59i1"
       />
       <ArticelLinkBar
         title="Stop Overcomplicating your State – Try Zustand"
