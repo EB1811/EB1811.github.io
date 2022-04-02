@@ -3,39 +3,39 @@
 </script>
 
 <section
-  class="bg-white dark:bg-neutral-800 py-20 transition-colors duration-500"
+  class="bg-white py-20 transition-colors duration-500 dark:bg-neutral-800"
 >
-  <div class="max-w-5xl px-6 mx-auto text-center">
+  <div class="mx-auto max-w-5xl px-6 text-center">
     <h2 class="text-2xl font-semibold text-gray-800 dark:text-white">
       Latest Articles
     </h2>
-    <div class="flex flex-col items-center justify-center mt-6">
+    <div class="mt-6 flex flex-col items-center justify-center">
       <ArticelLinkBar
-        title="Take your Async Code to the Next Level"
-        date="Coming Soon"
-        link="https://dev.to/emmanuilsb"
+        title="Stop Overcomplicating Web Development - Try Svelte"
+        date="Mar 2022"
+        link="https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln"
         first={true}
       />
       <ArticelLinkBar
         title="Techniques for Writing Cleaner JavaScript"
-        date="Dec 22 2021"
+        date="Dec 2021"
         link="https://dev.to/emmanuilsb/techniques-for-writing-cleaner-javascript-with-es6-how-many-do-you-know--59i1"
       />
       <ArticelLinkBar
-        title="Stop Overcomplicating your State – Try Zustand"
-        date="Oct 30 2021"
+        title="Stop Overcomplicating your State - Try Zustand"
+        date="Oct 2021"
         link="https://dev.to/emmanuilsb/stop-overcomplicating-your-state-try-zustand-39p4"
       />
     </div>
-    <div class="flex items-center justify-center mt-12">
+    <div class="mt-12 flex items-center justify-center">
       <a
         href="/"
-        class="flex items-center mx-2 text-gray-600 dark:text-gray-300 hover:underline hover:text-gray-500 dark:hover:text-gray-200"
+        class="mx-2 flex items-center text-gray-600 hover:text-gray-500 hover:underline dark:text-gray-300 dark:hover:text-gray-200"
       >
         <span>View More</span>
         <svg
           viewBox="0 0 120.64 122.88"
-          class="h-4 w-4 ml-2"
+          class="ml-2 h-4 w-4"
           stroke="currentColor"
           fill="currentColor"
           ><g
