@@ -36,7 +36,7 @@
   }
 </script>
 
-<div class="flex justify-center items-center mr-3">
+<div class="mr-3 flex items-center justify-center">
   <span>
     <svg
       class="h-6 w-6 transition-all duration-200 ease-in-out"
@@ -55,13 +55,13 @@
     </svg>
   </span>
   <div
-    class="w-12 h-6 flex items-center rounded-full mx-2 px-1 cursor-pointer transition-all duration-200 ease-in-out"
+    class="mx-2 flex h-6 w-12 cursor-pointer items-center rounded-full px-1 transition-all duration-200 ease-in-out"
     class:bg-indigo-700={darkMode}
     class:bg-gray-300={!darkMode}
     on:click={toggleDarkMode}
   >
     <div
-      class="bg-white w-4 h-4 rounded-full shadow-md transition-all duration-200 ease-in-out"
+      class="h-4 w-4 rounded-full bg-white shadow-md transition-all duration-200 ease-in-out"
       class:toggle-dot={darkMode}
     />
   </div>

@@ -3,11 +3,11 @@
 </script>
 
 <section
-  class="bg-gray-700 dark:bg-neutral-900 py-20 transition-colors duration-500"
+  class="bg-gray-700 py-20 transition-colors duration-500 dark:bg-neutral-900"
 >
-  <div class="max-w-5xl px-6 mx-auto text-center">
+  <div class="mx-auto max-w-5xl px-6 text-center">
     <h2 class="text-2xl font-semibold text-white">My Work</h2>
-    <div class="flex items-center justify-center mt-10">
+    <div class="mt-10 flex items-center justify-center">
       <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         <ProjectLink
           title="Fair / Share"
@@ -35,15 +35,15 @@
         />
       </div>
     </div>
-    <div class="flex items-center justify-center mt-12">
+    <div class="mt-12 flex items-center justify-center">
       <a
         href="https://github.com/EB1811"
-        class="flex items-center text-white hover:underline hover:text-gray-200 dark:text-gray-300 dark:hover:text-gray-200"
+        class="flex items-center text-white hover:text-gray-200 hover:underline dark:text-gray-300 dark:hover:text-gray-200"
       >
         <span>View More On Github</span>
         <svg
           viewBox="0 0 120.64 122.88"
-          class="h-4 w-4 ml-2"
+          class="ml-2 h-4 w-4"
           stroke="currentColor"
           fill="currentColor"
           ><g

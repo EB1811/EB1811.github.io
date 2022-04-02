@@ -7,7 +7,7 @@
   import Footer from './sections/Footer.svelte'
 </script>
 
-<div class="bg-white dark:bg-neutral-800 transition-colors duration-500">
+<div class="bg-white transition-colors duration-500 dark:bg-neutral-800">
   <Header />
   <NameSection />
   <MidAboutMeSection />
