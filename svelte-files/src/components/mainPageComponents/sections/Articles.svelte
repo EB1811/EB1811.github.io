@@ -11,15 +11,15 @@
     </h2>
     <div class="mt-6 flex flex-col items-center justify-center">
       <ArticelLinkBar
-        title="Stop Overcomplicating Web Development - Try Svelte"
-        date="Mar 2022"
-        link="https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln"
+        title="What I Learned From 1 Year as a Software Developer"
+        date="Aug 2022"
+        link="https://dev.to/emmanuilsb/what-i-learned-from-1-year-as-a-software-developer-3f6g"
         first={true}
       />
       <ArticelLinkBar
-        title="Techniques for Writing Cleaner JavaScript"
-        date="Dec 2021"
-        link="https://dev.to/emmanuilsb/techniques-for-writing-cleaner-javascript-with-es6-how-many-do-you-know--59i1"
+        title="Stop Overcomplicating Web Development - Try Svelte"
+        date="Mar 2022"
+        link="https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln"
       />
       <ArticelLinkBar
         title="Stop Overcomplicating your State - Try Zustand"
@@ -29,7 +29,7 @@
     </div>
     <div class="mt-12 flex items-center justify-center">
       <a
-        href="/"
+        href="https://dev.to/emmanuilsb"
         class="mx-2 flex items-center text-gray-600 hover:text-gray-500 hover:underline dark:text-gray-300 dark:hover:text-gray-200"
       >
         <span>View More</span>
