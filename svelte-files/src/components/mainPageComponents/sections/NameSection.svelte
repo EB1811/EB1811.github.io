@@ -12,11 +12,12 @@
     <p class="mt-4 text-gray-600 dark:text-gray-300">
       Software Engineer specialising in Frontend and Cloud development.
     </p>
-    <div class="mt-16 flex items-end justify-center">
+    <div class="m-4 flex items-end justify-center">
       <img
-        width="450"
-        src="img/eman-coding-black.svg"
-        alt="eman digital nomad svg"
+        width="300"
+        src="img/eman-self-working.PNG"
+        alt="eman working"
+        class="rounded-full"
       />
     </div>
   </div>
