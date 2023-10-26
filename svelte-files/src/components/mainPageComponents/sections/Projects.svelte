@@ -7,6 +7,32 @@
 >
   <div class="mx-auto max-w-5xl px-6 text-center">
     <h2 class="text-2xl font-semibold text-white">My Work</h2>
+    <div class="mt-10">
+      <div
+        class="flex h-96 items-center justify-center overflow-hidden rounded-md border-b-8 border-emerald-400 bg-white transition-colors duration-500 dark:border-indigo-700 dark:bg-neutral-800"
+      >
+        <img
+          class="h-full w-full object-cover"
+          src="img/home-page-predira.PNG"
+          alt=""
+        />
+      </div>
+      <div class="mt-5 bg-gray-600 p-5 dark:bg-neutral-800">
+        <h2 class="text-center text-lg font-semibold text-white">
+          Predira Ltd
+        </h2>
+        <p class="mt- text-sm text-gray-300">
+          SaaS platform allowing users to create and maintain a custom trading
+          platform, finetuning the products, maturities, and negotiation
+          process.
+        </p>
+        <span class="mt-2 block text-sm text-gray-400">
+          React + TypeScript + AWS (AppSync, Lambda, DynamoDB)
+        </span>
+      </div>
+    </div>
+    <hr class="mt-12 border-gray-500" />
+    <h2 class="mt-10 text-2xl font-semibold text-white">Personal Projects</h2>
     <div class="mt-10 flex items-center justify-center">
       <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
         <ProjectLink

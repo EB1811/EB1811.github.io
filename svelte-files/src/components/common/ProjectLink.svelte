@@ -18,7 +18,7 @@
     href={link}
     class="mt-5 block overflow-hidden rounded-md bg-gray-600 transition duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 dark:bg-neutral-800"
   >
-    <div class="py-2 px-3 text-center text-sm">
+    <div class="px-3 py-2 text-center text-sm">
       <p class="text-lg font-semibold text-white">
         {title}
       </p>
