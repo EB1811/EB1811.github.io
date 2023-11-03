@@ -6,7 +6,7 @@
   class="bg-gray-700 py-20 transition-colors duration-500 dark:bg-neutral-900"
 >
   <div class="mx-auto max-w-5xl px-6 text-center">
-    <h2 class="text-2xl font-semibold text-white">My Work</h2>
+    <h2 class="text-3xl font-semibold text-white">My Work</h2>
     <div class="mt-10">
       <div
         class="flex h-96 items-center justify-center overflow-hidden rounded-md border-b-8 border-emerald-400 bg-white transition-colors duration-500 dark:border-indigo-700 dark:bg-neutral-800"
@@ -61,7 +61,7 @@
         />
       </div>
     </div>
-    <div class="mt-12 flex items-center justify-center">
+    <div class="mt-8 flex items-center justify-center">
       <a
         href="https://github.com/EB1811"
         class="flex items-center text-white hover:text-gray-200 hover:underline dark:text-gray-300 dark:hover:text-gray-200"

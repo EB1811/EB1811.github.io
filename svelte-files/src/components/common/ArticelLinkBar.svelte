@@ -7,7 +7,7 @@
 
 <a
   class="block w-full max-w-2xl rounded-md border-t-4 border-emerald-400 bg-white shadow-md transition duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 dark:border-indigo-700 dark:bg-neutral-800"
-  class:mt-8={!first}
+  class:mt-5={!first}
   href={link}
 >
   <div class="flex items-center justify-between px-4 py-2">

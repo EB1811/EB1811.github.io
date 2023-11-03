@@ -6,10 +6,10 @@
   class="bg-white py-20 transition-colors duration-500 dark:bg-neutral-800"
 >
   <div class="mx-auto max-w-5xl px-6 text-center">
-    <h2 class="text-2xl font-semibold text-gray-800 dark:text-white">
+    <h2 class="text-3xl font-semibold text-gray-800 dark:text-white">
       Latest Articles
     </h2>
-    <div class="mt-6 flex flex-col items-center justify-center">
+    <div class="mt-10 flex flex-col items-center justify-center">
       <ArticelLinkBar
         title="What I Learned From 1 Year as a Software Developer"
         date="Aug 2022"
@@ -27,7 +27,7 @@
         link="https://dev.to/emmanuilsb/stop-overcomplicating-your-state-try-zustand-39p4"
       />
     </div>
-    <div class="mt-12 flex items-center justify-center">
+    <div class="mt-8 flex items-center justify-center">
       <a
         href="https://dev.to/emmanuilsb"
         class="mx-2 flex items-center text-gray-600 hover:text-gray-500 hover:underline dark:text-gray-300 dark:hover:text-gray-200"
