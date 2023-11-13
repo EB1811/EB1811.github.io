@@ -3,7 +3,7 @@
   style="min-height: 380px"
 >
   <div class="mx-auto max-w-2xl px-6 text-center">
-    <h2 class="text-4xl font-semibold text-gray-800">
+    <h2 class="text-3xl font-semibold text-gray-800 md:text-4xl">
       <span
         class="rounded bg-emerald-400 px-1 text-white duration-700 dark:bg-indigo-700"
         >Emmanuil Borovikovs</span
